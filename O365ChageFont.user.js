@@ -7,7 +7,7 @@
 // @include     https://*.sharepoint.com/*
 // @grant       GM_addStyle
 // @run-at      document-load 
-// @version     0.0.3
+// @version     0.0.2
 // @license     MIT
 // ==/UserScript==
 
