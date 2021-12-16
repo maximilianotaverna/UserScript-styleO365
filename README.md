@@ -1,4 +1,4 @@
-# O365ChangeFont-css
+# UserScript-styleO365
 Script to change Microsoft Online fonts for O365
 
 ## Install Instructions
